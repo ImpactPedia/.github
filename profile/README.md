@@ -1,5 +1,5 @@
 # ImpactPedia
-## A web organization co-founded by (Saurav)[https://github.com/saurav-png] and (Prateek)[https://github.com/Addechander]
+## A web organization co-founded by [Saurav](https://github.com/saurav-png) and [Prateek](https://github.com/Addechander)
 
 # What are we
 ## At ImpactPedia, our mission is to provide impactful information and resources that empower individuals to make a positive difference in the world. Through our projects and initiatives, we aim to create a platform where knowledge meets practical application.
